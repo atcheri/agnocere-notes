@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "61bf86de1ae8c041",
+    "type": "split",
+    "children": [
+      {
+        "id": "5840e28f164d5c5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de3a6cf2e760ad31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2cf12824cf9aa26",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2eab53cd24091ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd1cdb96e9262bdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3ddf598b50eeeb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "36bcc4a1292094f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8fa5f1f374b61a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "5733ad028a293548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c97c937aa2af9d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 - Indices -Indexes/learning - apprentissage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for learning - apprentissage"
+            }
+          },
+          {
+            "id": "4e589dbbac1435e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4 - Indices -Indexes/learning - apprentissage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from learning - apprentissage"
+            }
+          },
+          {
+            "id": "a455becd9eb28d06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ab2fd2d5921f2b54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4 - Indices -Indexes/learning - apprentissage.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of learning - apprentissage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "de3a6cf2e760ad31",
+  "lastOpenFiles": [
+    "5 - Modèles - Templates/Note Principale à en devenir.md",
+    "Welcome.md",
+    "4 - Indices -Indexes/TDD - Test Driven Development.md",
+    "3 - Etiquettes - Tags/TDD.md",
+    "3 - Etiquettes - Tags/citations.md",
+    "6 - Notes principales/Untitled.md",
+    "4 - Indices -Indexes/learning - apprentissage.md",
+    "6 - Notes principales",
+    "5 - Modèles - Templates",
+    "3 - Etiquettes - Tags/learning - apprentissage.md",
+    "4 - Indices -Indexes",
+    "1 - Brouillons/Notes taking.md",
+    "3 - Etiquettes - Tags/notes taking.md",
+    "3 - Etiquettes - Tags/hedera.md",
+    "3 - Etiquettes - Tags/bitcoin.md",
+    "3 - Etiquettes - Tags/blockchain.md",
+    "3 - Etiquettes - Tags/solana.md",
+    "3 - Etiquettes - Tags/typescript.md",
+    "3 - Etiquettes - Tags/golang.md",
+    "3 - Etiquettes - Tags",
+    "2 - Sources/Autres",
+    "2 - Sources/Vidéos",
+    "2 - Sources/Podcasts",
+    "2 - Sources/Publications",
+    "2 - Sources/Livres - Ouvrages",
+    "2 - Sources/Articles",
+    "1 - Brouillons/Misha.md"
+  ]
+}
