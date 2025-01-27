@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5840e28f164d5c5e",
+        "id": "4f9cad0bcfc8e6be",
         "type": "tabs",
         "children": [
           {
-            "id": "de3a6cf2e760ad31",
+            "id": "714af3c5cba166c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5 - Modèles - Templates/Nouvelle note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nouvelle note"
             }
           }
         ]
@@ -156,37 +160,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "de3a6cf2e760ad31",
+  "active": "714af3c5cba166c3",
   "lastOpenFiles": [
+    "6 - Notes principales/Supercharged Zeigernik - Producitivité.md",
+    "6 - Notes principales/Supercharged Pareto - Productivité.md",
+    "6 - Notes principales/Supercharged la mentalité du Championnat.md",
+    "chart-certainty-time-actions.png",
+    "6 - Notes principales/Tristesse, d'Alfred de Musset.md",
+    "Pasted image 20250127192924.png",
+    "6 - Notes principales/Principe de Pareto - Productivité.md",
+    "6 - Notes principales/Mentalité du Championnat.md",
+    "6 - Notes principales/Effet Zeigernik - Productivité.md",
+    "1 - Brouillons/Notes taking.md",
+    "2 - Sources/Vidéos/How To Be SO Productive That It Feels ILLEGAL.md",
+    "6 - Notes principales/github.md",
+    "3 - Etiquettes - Tags/productivité - productivity.md",
+    "6 - Notes principales/Hashgraph.md",
+    "2 - Sources/Obsidian template repository.md",
+    "5 - Modèles - Templates/Nouvelle note.md",
     "5 - Modèles - Templates/Note Principale à en devenir.md",
-    "Welcome.md",
+    "6 - Notes principales/essaie.md",
+    "4 - Indices -Indexes/Poèmes.md",
+    "3 - Etiquettes - Tags/poèmes.md",
+    "4 - Indices -Indexes/learning - apprentissage.md",
     "4 - Indices -Indexes/TDD - Test Driven Development.md",
+    "Welcome.md",
     "3 - Etiquettes - Tags/TDD.md",
     "3 - Etiquettes - Tags/citations.md",
-    "6 - Notes principales/Untitled.md",
-    "4 - Indices -Indexes/learning - apprentissage.md",
     "6 - Notes principales",
     "5 - Modèles - Templates",
     "3 - Etiquettes - Tags/learning - apprentissage.md",
     "4 - Indices -Indexes",
-    "1 - Brouillons/Notes taking.md",
     "3 - Etiquettes - Tags/notes taking.md",
-    "3 - Etiquettes - Tags/hedera.md",
-    "3 - Etiquettes - Tags/bitcoin.md",
-    "3 - Etiquettes - Tags/blockchain.md",
-    "3 - Etiquettes - Tags/solana.md",
-    "3 - Etiquettes - Tags/typescript.md",
-    "3 - Etiquettes - Tags/golang.md",
     "3 - Etiquettes - Tags",
     "2 - Sources/Autres",
     "2 - Sources/Vidéos",
     "2 - Sources/Podcasts",
     "2 - Sources/Publications",
     "2 - Sources/Livres - Ouvrages",
-    "2 - Sources/Articles",
-    "1 - Brouillons/Misha.md"
+    "2 - Sources/Articles"
   ]
 }
