@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "6 - Notes principales",
-  "vimMode": true
+  "vimMode": true,
+  "alwaysUpdateLinks": true
 }
