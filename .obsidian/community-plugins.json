@@ -2,5 +2,7 @@
   "better-word-count",
   "smart-random-note",
   "templater-obsidian",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "url-into-selection",
+  "obsidian-icon-folder"
 ]

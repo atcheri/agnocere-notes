@@ -5,7 +5,6 @@ Status:
 
 Tags: [[productivité - productivity]] [[3 - Etiquettes - Tags/learning - apprentissage|learning - apprentissage]]
 
-
 # Mentalité du Championnat
 
 	In order to achieve the ultimate goal, we don't necessarily need to achieve each goals on the way

@@ -1,0 +1,1 @@
+[link](https://fortelabs.com/blog/12-favorite-problems-how-to-spark-genius-with-the-power-of-open-questions/)

@@ -1,0 +1,1 @@
+[link](https://dev.to/gokayburuc/atomic-note-taking-guide-4fo9)
